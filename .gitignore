@@ -2,6 +2,7 @@
 __pycache__/
 *.py[cod]
 *$py.class
+JB
 
 # C extensions
 *.so
@@ -137,3 +138,4 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+*.json
